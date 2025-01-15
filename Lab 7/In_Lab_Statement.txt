@@ -1,0 +1,13 @@
+Dear Students,
+
+For this lab, you are required to redo your previous two labs, 5 (UDP Client-Server) and 6 (TCP Client-Server) using . The helping files have already been attached to the respective lab sections to guide you through the process.
+
+Please ensure that you include a screenshot of the output with each lab submission. The format for submission should follow this pattern: 
+22L-XXXX_LabX_Client.py
+22L-XXXX_LabX_Server.py
+22L-XXXX_LabX_Output.jpg/png.
+For additional help running UDP and TCP files in NS3 using Python, you can refer to the attached link for detailed guidance.
+
+And if you face any other issue, feel free to email me your query.
+
+https://www.nsnam.org/docs/manual/html/python.html?authuser=1
